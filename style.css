@@ -10,8 +10,24 @@
 .left-side{
     margin-right: 200px;
 }
+.alldots{
+    margin-left: 125px;
+}
+.dot{
+    border: 2px green solid;
+    
+    height: 20px;
+    width: 20px;
+    
+    border-radius: 50%;
+    display: inline-block;
+    margin-top : 40px;
 
-
+    
+}
+.fill{
+    background-color: green;
+}
 .textP{
     margin-top: 100px;
     font-size: 18pt;
